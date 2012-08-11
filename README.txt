@@ -1,7 +1,7 @@
 Created by : Randi Dwi Putra 
 
 
-Aplikasi Instrument Sederhana ini dibuat menggunakan java dan library swing untuk interfacenya.
+Aplikasi Simple Client Server Sederhana ini dibuat menggunakan java dan library swing untuk interfacenya.
 
 Aplikasi ini dibuat pada tahun 2009.
 

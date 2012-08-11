@@ -26,5 +26,6 @@ Thanks to :
 (Tanpa itu semua aku takkan pernah memiliki dendam untuk memiliki kehidupan yang lebih baik lagi)
 				
 
-Bekasi, 12 Agustus 2012 / 23 Ramadhan 1433H
+Bekasi, 12 Agustus 2012 / 23 Ramadhan 1433H - 01.16 AM
+
 Disudut kamar ditemani Acer 4732Z + Modem Vodafone
